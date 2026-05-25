@@ -1,1 +1,1 @@
-# automatic-journey
+# automaticjourney.github.io
